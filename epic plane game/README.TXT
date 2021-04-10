@@ -10,3 +10,9 @@ VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
+
+TODO/SUGGESTIONS:
+1. Navngivning samme sprog eng/dan
+2. Lave fælles classes så der ikke bliver så meget dobbelt code (weapon class, missil, gatling gun?)
+3. Cooldown class
+4. 
